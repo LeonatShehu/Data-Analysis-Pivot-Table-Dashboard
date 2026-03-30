@@ -1,4 +1,4 @@
-# Data-Analysis-Pivot-Table-Dashboard
+# Data-Analysis-Real-Estate
 
 ## Project Objective
 In this project, I analyzed a portion of residential sales in Pristina during 2025, taking into account that the capital of Kosovo continues to remain one of the construction centers.
